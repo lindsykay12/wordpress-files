@@ -1,0 +1,1152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Temptation\n"
+"POT-Creation-Date: 2014-03-16 01:06+0530\n"
+"PO-Revision-Date: 2014-03-16 01:06+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: InkHive.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _x;_e;_ex;__;esc_attr_e;esx_attr_x\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/mac/Documents/Developer/"
+"Theme-Development/wp-content/themes/temptation\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:31
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/author.php:18
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:39
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/date.php:19
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:42
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/date.php:22
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:45
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/date.php:25
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:51
+msgid "Images"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:60
+msgid "Links"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/archive.php:63
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/sidebar-home.php:18
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:36
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:37
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:38
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:82
+msgid "Comment"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:90
+msgid "Name"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:96
+msgid "Email"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/comments.php:103
+msgid "Website"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-page.php:15
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:13
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:58
+msgid "Pages:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-page.php:20
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:56
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:32
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:64
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:71
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:26
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:29
+msgid ", "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:34
+#, php-format
+msgid ""
+"<span class=\"single-tags\"> <i class=\"fa fa-tags\"> </i> %2$s <span class="
+"\"single-tags\">"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:42
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"> </i> %1$s <span class=\"single-tags\"> <i "
+"class=\"fa fa-tags\"> </i> %2$s <span class=\"single-tags\">"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content-single.php:44
+#, php-format
+msgid "<i class=\"fa fa-folder-open\"> </i> %1$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content.php:15
+msgid "<i class=\"fa fa-comment\"> </i> Leave a comment"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content.php:15
+msgid "<i class=\"fa fa-comment\"> </i> 1 Comment"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content.php:15
+msgid "<i class=\"fa fa-comments\"> </i> % Comments"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content.php:29
+msgid "Contine reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/content.php:32
+msgid "Pages: "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/footer.php:21
+#, php-format
+msgid "Temptation Theme by %1$s."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:51
+msgid "Sidebar Home"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:60
+msgid "Sidebar"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:68
+msgid "Footer Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:76
+msgid "Footer Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/functions.php:84
+msgid "Footer Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/header.php:48
+msgid "Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/header.php:49
+msgid "Skip to content"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/header.php:70
+msgid "Recommended"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/home-gridt.php:25
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:79
+msgid "Latest Articles"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:24
+msgid "true"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:25
+msgid "false"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:29
+msgid "Grid++"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:30
+msgid "Dynamic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:39
+msgid "4"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:40
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:87
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:85
+msgid "5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:41
+msgid "6"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:42
+msgid "7"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:43
+msgid "8"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:44
+msgid "9"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:45
+msgid "10"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:46
+msgid "11"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:47
+msgid "12"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:53
+msgid "Basic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:57
+msgid "Site Logo"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:58
+msgid "Leave Blank to use text Heading."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:64
+msgid "Homepage Title For Posts Area"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:65
+msgid "The title of the Posts Area"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:71
+msgid "Pattern or Image"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:72
+msgid ""
+"This is the image which shall be displayed as a Background for Posts and "
+"Page Titles. Leave blank to use default."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:79
+msgid "Copyright Text"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:80
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:88
+msgid "Layout"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:103
+msgid "Custom CSS"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:104
+msgid ""
+"Some Custom Styling for your site. Place any css codes here instead of the "
+"style.css file."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:111
+msgid "Carousel"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:115
+msgid "Enable Carousel"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:116
+msgid "Check this to Enable Carousel on HomePage"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:123
+msgid "Select Featured Category"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:124
+msgid "The category from which posts will be fetched"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:131
+msgid "Select No of Posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:132
+msgid "The no. of posts you want to display in the carousel."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:142
+msgid "ShowCase"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:146
+msgid "Enable Showcase"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:147
+msgid "Enable Showcase on HomePage"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:153
+msgid "Showcase 1 Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:154
+msgid "Title of the first Showcase Block."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:162
+msgid "Select Category 1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:163
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:181
+msgid "The category from which posts will be fetched."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:171
+msgid "Showcase 2 Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:172
+msgid "Title of the second Showcase Block."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:180
+msgid "Select Category 2"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:192
+msgid "Slider(Nivo)"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:196
+msgid "Enable Slider"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:197
+msgid "Check this to Enable Slider on Welcome Page"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:203
+msgid "Using the Slider"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:204
+msgid ""
+"This Slider supports upto 5 Images. To show only 3 Slides in the slider, "
+"upload only 3 images. Leave the rest Blank. For best results, upload images "
+"of size 1180x500px."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:208
+msgid "Slider Image 1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:209
+msgid "First Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:215
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:240
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:265
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:290
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:315
+msgid "Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:221
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:246
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:271
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:296
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:321
+msgid "Description or Tagline"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:227
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:252
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:277
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:302
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:327
+msgid "Url"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:233
+msgid "Slider Image 2"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:234
+msgid "Second Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:258
+msgid "Slider Image 3"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:259
+msgid "Third Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:283
+msgid "Slider Image 4"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:284
+msgid "Fourth Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:308
+msgid "Slider Image 5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:309
+msgid "Fifth Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:335
+msgid "Social"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:339
+msgid "Facebook"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:340
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:347
+msgid "Twitter"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:348
+msgid "Twitter Username"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:355
+msgid "Google Plus"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:356
+msgid "Google Plus profile url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:363
+msgid "Feeburner"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:364
+msgid "URL for your RSS Feeds"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:371
+msgid "Pinterest"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:372
+msgid "Your Pinterest Profile URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:379
+msgid "Instagram"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:380
+msgid "Your Instagram Profile URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:387
+msgid "Linked In"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:388
+msgid "Your Linked In Profile URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:395
+msgid "Youtube"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:396
+msgid "Your Youtube Channel URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:403
+msgid "Tumblr"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:404
+msgid "Your Tumblr Blog URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:411
+msgid "Flickr"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:412
+msgid "Your Flickr Profile URL"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:419
+msgid "Support"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:423
+msgid ""
+"Thank You For Using Temptation WordPress Theme. For Support Visit the <a "
+"target=\"_blank\" href=\"http://inkhive.com/forums/\">Support Forums.</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:427
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:431
+msgid "Regenerating Post Thumbnails"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:432
+msgid ""
+"If you are using temptation Theme on a New Wordpress Installation, then you "
+"can skip this section.<br />But if you have just switched to this theme from "
+"some other theme, then you are requested regenerate all the post thumbnails. "
+"It will fix all the issues you are facing with distorted & ugly homepage "
+"thumbnail Images. "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:436
+msgid ""
+"To Regenerate all Thumbnail images, Install and Activate the <a href="
+"\"http://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">Regenerate Thumbnails</a> WP Plugin. Then from <strong>Tools &gt; Regen. "
+"Thumbnails</strong>, re-create thumbnails for all your existing images. And "
+"your blog will look even more stylish with Temptation theme.<br /> "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:441
+msgid ""
+"<strong>Note:</strong> Regenerating the thumbnails, will not affect your "
+"original images. It will just generate a separate image file for those "
+"images."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:446
+msgid "Theme Credits"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/options.php:447
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/searchform-top.php:10
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/searchform-top.php:12
+msgid "Search..."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/searchform.php:12
+msgid "Search for anything on this site..."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/sidebar-footer.php:10
+msgid "Go to Top"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/sidebar-home.php:25
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/customizer.php:23
+msgid "Site Title Color"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/customizer.php:34
+msgid "Site Description Color"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:147
+msgid "Temptation Theme Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:148
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:377
+msgid "Temptation Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:193
+msgid "Clear"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:194
+msgid "Default"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:195
+msgid "Select Color"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:240
+msgid "Save Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:241
+msgid "Restore Defaults"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:241
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:273
+msgid "Default options restored."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-framework.php:327
+msgid "Options saved."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:54
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:56
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:239
+msgid "No Repeat"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:240
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:241
+msgid "Repeat Vertically"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:242
+msgid "Repeat All"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:255
+msgid "Top Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:256
+msgid "Top Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:257
+msgid "Top Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:258
+msgid "Middle Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:259
+msgid "Middle Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:260
+msgid "Middle Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:261
+msgid "Bottom Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:262
+msgid "Bottom Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:263
+msgid "Bottom Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:276
+msgid "Scroll Normally"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:277
+msgid "Fixed in Place"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:351
+msgid "Normal"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:352
+msgid "Italic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:353
+msgid "Bold"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/options-sanitize.php:354
+msgid "Bold Italic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:38
+msgid "&larr;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:39
+msgid "&rarr;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:86
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/template-tags.php:183
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-clock-o\"> </i> %1$s</span> <span "
+"class=\"byline\"> <i class=\"fa fa-user\"> </i> %2$s</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:13
+msgid "IH Featured Posts by Category"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:14
+msgid "Display your Featured Content, with a Thumbnail."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:81
+msgid "Featured Articles"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:93
+msgid "1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:97
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:89
+msgid "Title:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:100
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:92
+msgid "No. of Posts:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/featured-posts.php:103
+msgid "Category ID"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:11
+msgid "Displays the Thumbnails from posts of selected Category."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:12
+msgid "IH Post Thumbnails Gallery"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:25
+msgid ""
+"<span class=\"title-blue\">flick</span><span class=\"title-red\">r</span> "
+"widget"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:101
+msgid "Photo"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:108
+msgid "Widget title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:112
+msgid "Number of Posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/gallery.php:115
+msgid "Widget Category"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:13
+msgid "IH Recent Posts with Thumbnails"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/temptation/inc/widgets/recent-posts.php:14
+msgid "Display your recent posts, with a Thumbnail."
+msgstr ""

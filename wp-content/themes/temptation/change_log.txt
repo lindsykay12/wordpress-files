@@ -1,0 +1,16 @@
+Version 1.0
+
+	i) Initial Release.
+	
+Version 1.0.0.4
+
+	i) [BUGFIX] Minor bug Fixes
+	
+Version 1.0.0.6
+
+	i) [BUGFIX] Major Bug fixed, which was causing Javascript to not work at all.	
+	
+Version 1.0.0.7
+
+	i) [BUGFIX] BxSlider Updated to Latest Version. All Issues Resolved.
+	ii) Minor Changes to Default Sidebar Layout.	
